@@ -10,6 +10,12 @@ Follow me on:
 - Twitter: https://twitter.com/forhadhossain40
 - LinkedIn: https://linkedin.com/in/forhadhossain60
 
+
+CV:
+
+![image](https://user-images.githubusercontent.com/73592879/208036739-7a8076bf-6815-4289-a00a-642270ce159b.png)
+
+
 <!---
 forhadhossain60/forhadhossain60 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

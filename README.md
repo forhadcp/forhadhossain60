@@ -13,7 +13,7 @@ Follow me on:
 
 CV:
 
-![image](https://user-images.githubusercontent.com/73592879/208036739-7a8076bf-6815-4289-a00a-642270ce159b.png)
+![download](https://user-images.githubusercontent.com/73592879/208037019-25596d78-909b-4a76-b894-6eda030ad710.png)
 
 
 <!---

@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Forhad Hossain</h1>
-<h3 align="center">A passionate full-stack dev and tech researcher from Bangladesh</h3>
+- 👋 Hi, I’m @forhadhossain60
+- 👀 I’m interested in research and technology.
+- 🌱 I’m currently learning computer science.
+- 💞️ I’m looking to collaborate on open source projects.
+- 📫 How to reach me: forhadhossain60@outlook.com
+
+Follow me on:
+- Facebook: https://facebook.com/forhadhossain60
+- Instagram: https://instagram.com/forhadhossain60
+- Twitter: https://twitter.com/forhadhossain40
+- LinkedIn: https://linkedin.com/in/forhadhossain60
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=forhadhossain60&label=Profile%20views&color=0bd074&style=flat" alt="forhadhossain60" /> </p>
 

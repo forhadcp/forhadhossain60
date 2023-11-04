@@ -1,4 +1,5 @@
-<h3>👋 Hi, I’m @forhadhossain60</h3>
+<h3>👋 Hi, I’m Forhad Hossain</h3>
+<p>A passionate full-stack developer from Bangladesh</p>
 
 - 👀 I’m interested in research and technology.
 - 🌱 I’m currently learning computer science.

@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me: forhadhossain60@outlook.com
-- 💬 Ask me about **React, NextJS, MERN Stack, Ed-Tech.**
+- 💬 Ask me about **React, NextJS, MERN Stack, Ed-Tech, LMS.**
 
 <b>Follow me on:</b>
 - Facebook: https://facebook.com/forhadhossain60
